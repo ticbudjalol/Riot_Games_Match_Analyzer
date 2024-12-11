@@ -12,7 +12,7 @@ Unlock the power of data with the Riot Games Match Analyzer! This Python applica
 ### Step 1: Clone the Repository
 To download the project, run the following command in your terminal or command prompt:
 ```bash
-git clone https://github.com/ticbudjalol/LOL-MH.git
+git clone https://github.com/ticbudjalol/Riot_Games_Match_Analyzer.git
 ```
 
 ### Step 2: Navigate to the Project Directory
