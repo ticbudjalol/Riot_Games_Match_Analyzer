@@ -18,7 +18,7 @@ git clone https://github.com/ticbudjalol/Riot_Games_Match_Analyzer.git
 ### Step 2: Navigate to the Project Directory
 To download the project, run the following command in your terminal or command prompt:
 ```bash
-cd LOL-MH
+cd Riot_Games_Match_Analyzer
 ```
 
 ### Step 3: Install Dependencies
