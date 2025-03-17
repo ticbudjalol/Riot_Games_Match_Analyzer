@@ -27,7 +27,13 @@ Make sure you have Python 3.8+ installed. Then, install the required Python pack
 pip install -r requirements.txt
 ```
 
-### Step 4: Run the Application
+### Step 4: Add your API key
+Make sure to add your API key from riot API
+```bash
+python main.py
+```
+
+### Step 5: Run the Application
 Make sure you have Python 3.8+ installed. Then, install the required Python packages:
 ```bash
 python main.py
